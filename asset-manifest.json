@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/lea-vodopivec.github.io/static/css/main.bcf5e96b.css",
-    "main.js": "/lea-vodopivec.github.io/static/js/main.bd900232.js",
+    "main.css": "/lea-vodopivec.github.io/static/css/main.b5a32a2e.css",
+    "main.js": "/lea-vodopivec.github.io/static/js/main.2820da3c.js",
     "static/js/453.119edc6d.chunk.js": "/lea-vodopivec.github.io/static/js/453.119edc6d.chunk.js",
+    "static/media/my_photo.jpg": "/lea-vodopivec.github.io/static/media/my_photo.7bc79c24161225a2e9e7.jpg",
     "static/media/mpg.png": "/lea-vodopivec.github.io/static/media/mpg.c382eb42e04a0a587852.png",
     "static/media/logo-futu-natura.svg": "/lea-vodopivec.github.io/static/media/logo-futu-natura.b20a3c88887eff88fecb5585aae1eed6.svg",
     "index.html": "/lea-vodopivec.github.io/index.html",
-    "main.bcf5e96b.css.map": "/lea-vodopivec.github.io/static/css/main.bcf5e96b.css.map",
-    "main.bd900232.js.map": "/lea-vodopivec.github.io/static/js/main.bd900232.js.map",
+    "main.b5a32a2e.css.map": "/lea-vodopivec.github.io/static/css/main.b5a32a2e.css.map",
+    "main.2820da3c.js.map": "/lea-vodopivec.github.io/static/js/main.2820da3c.js.map",
     "453.119edc6d.chunk.js.map": "/lea-vodopivec.github.io/static/js/453.119edc6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcf5e96b.css",
-    "static/js/main.bd900232.js"
+    "static/css/main.b5a32a2e.css",
+    "static/js/main.2820da3c.js"
   ]
 }
