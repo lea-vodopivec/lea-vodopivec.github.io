@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a463c068.css",
-    "main.js": "/static/js/main.8796b269.js",
+    "main.js": "/static/js/main.bcbb4376.js",
     "static/js/453.119edc6d.chunk.js": "/static/js/453.119edc6d.chunk.js",
     "static/media/my_photo.jpg": "/static/media/my_photo.7bc79c24161225a2e9e7.jpg",
     "static/media/dlib-logo.png": "/static/media/dlib-logo.ace3918bfcaf636e54cd.png",
@@ -11,11 +11,11 @@
     "static/media/logo-futu-natura.svg": "/static/media/logo-futu-natura.b20a3c88887eff88fecb5585aae1eed6.svg",
     "index.html": "/index.html",
     "main.a463c068.css.map": "/static/css/main.a463c068.css.map",
-    "main.8796b269.js.map": "/static/js/main.8796b269.js.map",
+    "main.bcbb4376.js.map": "/static/js/main.bcbb4376.js.map",
     "453.119edc6d.chunk.js.map": "/static/js/453.119edc6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a463c068.css",
-    "static/js/main.8796b269.js"
+    "static/js/main.bcbb4376.js"
   ]
 }
