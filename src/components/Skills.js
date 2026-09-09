@@ -3,6 +3,54 @@ import './App.css';
 
 const Skills = () => {
   const skillsCategories = [
+      {
+      title: 'AI & LLM Tools',
+      icon: 'fas fa-robot',
+      skills: [
+        'Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), Mistral, LLaMA (Meta), DeepSeek',
+        'Integration and local deployment of open-source LLMs (GaMS, Voxtral, Mistral) in Ollama, LM Studio',
+        'Fine-tuning LLMs for domain-specific tasks',
+        'Prompt engineering and iterative querying',
+        'AI-assisted translation review and post-editing',
+        'AI-supported text analysis and corpus exploration',
+        'Research, summarization, and content drafting with LLMs',
+        'Critical evaluation of AI output (accuracy, bias, hallucination)',
+      ]
+    },
+    {
+      title: 'Digital Humanities',
+      icon: 'fas fa-brain',
+      skills: [
+        'Subtitle editing and creation (SubRip .SRT), timestamping, caption synchronization',
+        'Corpus Analysis (Sketch Engine)',
+        'Machine Learning in Linguistics',
+        'Visual Data Analytics and Data mining (Orange)',
+        'Language resources and infrastructures (CLARIN)',
+        'XML (TEI for Text Markup)'
+      ]
+    },
+    {
+      title: 'Computer-Assisted Translation',
+      icon: 'fas fa-language',
+      skills: [
+        'Trados Studio',
+        'MateCat',
+        'SDL MultiTerm',
+        'CafeTran',
+        'Translation Formats (XML, TMX, XLIFF)',
+      ]
+    },
+    {
+      title: 'Programming Languages',
+      icon: 'fas fa-code',
+      skills: [
+        'Python',
+        'CSS, HTML, PHP (website)',
+        'JavaScript',
+        'XML (structured data)',
+        'R (statistics and data visualization)'
+      ]
+    },
     {
       title: 'General Digital Competences',
       icon: 'fas fa-laptop-code',
@@ -12,38 +60,6 @@ const Skills = () => {
         'Cloud Services (Google Drive, Dropbox, OneDrive)',
         'Project Management and task collaboration tool (Asana)',
         'Graphic design (Canva)'
-      ]
-    },
-    {
-      title: 'Computer-Assisted Translation',
-      icon: 'fas fa-language',
-      skills: [
-        'SDL Trados Studio',
-        'MemoQ',
-        'Translation Formats (XML, TMX, XLIFF)',
-      ]
-    },
-    {
-      title: 'Programming Languages',
-      icon: 'fas fa-code',
-      skills: [
-        'Python',
-        'JavaScript',
-        'CSS, HTML, PHP (website)',
-        'XML (structured data)',
-        'R (statistics and data visualization)'
-      ]
-    },
-    {
-      title: 'Digital Humanities',
-      icon: 'fas fa-brain',
-      skills: [
-        'Corpus Analysis (Sketch Engine)',
-        'Python libraries for AI (PyTorch, NLTK, CLASSLA)',
-        'Machine Learning in Linguistics',
-        'Language resources and infrastructures (CLARIN)',
-        'Visual Data Analytics and Data mining (Orange)',
-        'XML (TEI for Text Markup)'
       ]
     }
   ];
